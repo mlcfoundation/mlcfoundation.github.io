@@ -1,0 +1,25 @@
+site_name: MLC Foundation
+copyright: Copyright (C) 2020-22, MLC Foundation. All rights reserved.
+theme:
+  cluster
+
+nav:
+  - Home: index.md
+  - Activities:
+      - Studies: activities/studies.md
+      - Seminars: activities/seminars.md
+  - Research:
+      - Publications: research/publications.md
+      - NFHS: research/nfhs.md
+  - IJPD:
+      - Journal: ijpd/journal.md
+      - 'Editorial Board': ijpd/editors.md
+      - 'Current Issue': ijpd/issues.md
+      - Archives: ijpd/archives.md
+      - Submissions: ijpd/submission.md
+      - Contact: ijpd/contact.md
+  - About:
+      - Trustees: about/trustees.md
+      - Experts: about/experts.md
+      - Facilities: about/facilities.md
+      - Contact: about/contact.md
