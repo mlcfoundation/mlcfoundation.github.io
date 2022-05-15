@@ -1,7 +1,6 @@
 name: "Deploy to GitHub pages"
 on:
-  workflow_dispatch:
-  push:
+  [push, workflow_dispatch]:
     branches:
       - "main"
 jobs:
