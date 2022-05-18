@@ -105,11 +105,8 @@ Varanasi, UP, INDIA <br>
 brijesh@bhu.ac.in
 
 ### Associate Editors ###
-<<<<<<< HEAD
+
 **Binod Kumar Singh** <br>
-=======
-** Binod Kumar Singh** <br>
->>>>>>> 82dbecedd9325c64bb482410eaf126399a30955b
 Senior Geographer <br>
 Office of the Registrar General of India <br>
 Patna, Bihar, INDIA<br>
