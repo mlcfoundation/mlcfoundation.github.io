@@ -1,4 +1,4 @@
-# Bhopal Seminar 2022
+## Bhopal Seminar 2022
 
 **Family Planning in India: Relevance, Opportunities and Challenges** <br>
 Bhopal, Madhya Pradesh, India <br>
@@ -24,11 +24,11 @@ MLC Foundation and ‘Shyam’ Institute is organising the XX Bhopal Seminar 202
 
 Bhopal Seminar 2022 is directed towards discussion on relevance, challenges and opportunities of family planning in India through the development perspective. Bhopal Seminar 2022 aims to increase the understanding of the role of family planning in India’s development through evidence-based analytical research. Discussions at Bhopal Seminar 2022 are also expected to contribute to an objective assessment of the impact of family planning in India’s development.
 
-#### Participation
+### Participation
 
 Original research papers are invited for presentation at the Bhopal Seminar 2022 on any of the sub-themes and on any other issue related to family planning in India. Research papers to be presented at the Bhopal Seminar 2022 should be based on the empirical evidence derived from household surveys or registration system or service statistics and not on anecdotal or analogical experiences.
 
-#### Important Dates
+### Important Dates
 
 1. Registration and submission of abstract
     <br> *10 November 2021*
@@ -45,6 +45,6 @@ Original research papers are invited for presentation at the Bhopal Seminar 2022
 5. Inauguration of the Bhopal Seminar 2022
     <br> *12 January 2022*
 
-#### Organisation
+### Organisation
 
 The Bhopal Seminar 2022 will be organised in both physical and virtual modes. In each technical session of the Bhopal Seminar 2022, some of the papers will be presented in physical mode while others will be presented in the virtual mode.
