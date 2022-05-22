@@ -1,8 +1,8 @@
-<h2> MEWALAL CHAURASIA FOUNDATION </h2>
+# MEWALAL CHAURASIA FOUNDATION 
 
 **MEWALAL CHAURASIA FOUNDATION** is a no-profit voluntary research organisation in the field of population and development. **The Foundation** conducts research, organises seminar and workshop, publishes monographs, and extends technical support on different aspects of population and development with a focus on population and development integration. **The Foundation** has technical expertise in areas of household surveys, data analysis including data mining, measurement and analysis of poverty, deprivation and inequality, especially, multidimensional poverty and deprivation, minor irrigation, human development, health and family welfare, social protection, monitoring and evaluation and information technology. **The Foundation** has a pool of experts to provide consultancy services to other research organisations and institutions.
 
-## Objectives ##
+## Objectives 
 
 * To serve as a platform for discussion and debate on development related issues as they affect population including economic development, rural development, human development, agriculture, irrigation and forests, education and employment, health, family welfare and nutrition, environment, information technology, biotechnology, etc.
 
