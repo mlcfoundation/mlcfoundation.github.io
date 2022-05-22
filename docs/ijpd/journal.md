@@ -1,4 +1,4 @@
-# Indian Journal of Population and Development
+## Indian Journal of Population and Development
 
 **INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** seeks to advance the understanding about the interaction between population factors and different dimensions of development in varied social, economic, cultural, and environmental settings. It provides a forum for discussion and debate on how population influences and is influenced by development processes and how population factors and development processes, in combination, affect and are affected by the environment that ensures the life on the Planet Earth.
 
@@ -10,7 +10,7 @@ For more information, send an email to <ijpd@mlcfoundation.org.in>.
 
 ## Details
 
-| Particular | |
+|||
 |-|-|
 | Title | **Indian Journal of Population and Development** |
 | Frequency | **Half-yearly** |

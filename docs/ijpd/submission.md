@@ -1,4 +1,5 @@
-## Indian Journal of Population and Development ##
+## Indian Journal of Population and Development
+
 ### Submission ###
 
 Research papers for publication in the **INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** may be submitted through email (<ijpd@mlcfoundation.org.in>) or via the following form.

@@ -1,6 +1,8 @@
-<h3>Indian Journal of Population and Development</h3>
-<br> <b>Current Issue <br>
-Volume 1(2) July 2021</b>
+## Indian Journal of Population and Development
+
+### Current Issue
+
+#### Volume 1(2) July 2021
 
 1. [ Asian Immigrant Advancement in Canada ](../assets/ijpd/2021-2/V_1_2_1.pdf)
     <br> *Barry Edmonston*
