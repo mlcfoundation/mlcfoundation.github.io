@@ -1,8 +1,11 @@
-<h3><p>Indian Journal of Population and Development<br>
-Archives</h3></p>
-Volume 1(1) January 2021
+## Indian Journal of Population and Development
+
+### Archives
+
+#### Volume 1(1) January 2021 
 
 [Complete Volume](../assets/ijpd/2021-1/IJPD_Vol_1_1.pdf)
+    <br>
 
 1. [Mortality Transitions in India](../assets/ijpd/2021-1/IJPD_Vol_1_1_1.pdf)
     <br> *Alok R Chaurasia*

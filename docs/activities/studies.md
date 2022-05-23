@@ -1,4 +1,4 @@
-# Ongoing
+## Ongoing
 
 - Intrinsic and momentum components of world population growth, 1950-2020.
 
@@ -12,7 +12,7 @@
 
 - Development of an index to measure family planning performance.
 
-# Past
+## Past
 
 - Human deprivation in villages of India.
 
