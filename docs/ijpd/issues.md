@@ -30,3 +30,6 @@
 
 9. [ Caesarean Births in India: A Preliminary Analysis of Associated Factors ](../assets/ijpd/2021-2/V_1_2_9.pdf)
     <br> *Charu Yadav, Parveen Nangia*
+
+10. [ Urban-rural disparity in family planning use in India, 1992-2021 ](../assets/ijpd/2021-2/V_1_2_10.pdf)
+    <br> *Aalok R Chaurasia, Chandan Kumar*
