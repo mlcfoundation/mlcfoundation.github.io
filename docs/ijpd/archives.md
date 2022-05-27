@@ -4,7 +4,7 @@
 
 #### Volume 1(2) July 2021
 
-[Complete Issue](../assets/ijpd/2021-1/IJPD_Vol_1_2.pdf)
+[Complete Issue](../assets/ijpd/2021-2/V_1_2.pdf)
     <br>
 
 1. [ Asian Immigrant Advancement in Canada ](../assets/ijpd/2021-2/V_1_2_1.pdf)
