@@ -130,4 +130,4 @@ Mumbai, MH, INDIA<br>
 Visiting Fellow <br>
 Shyam Institute <br>
 Bhopal, MP, INDIA<br>
-<chandan.co.in@gmail.com>
+<chandan@shyaminstitute.in>
