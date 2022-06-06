@@ -54,7 +54,7 @@ Rajshahi, BANGLADESH <br>
 Professor <br>
 International Institute for Population Sciences <br>
 Mumbai, INDIA<br>
-<budhabglobe@gmail.com>
+<shekharc@iipsindia.ac.in>
 
 **Kaushalendra K Singh** <br>
 Professor <br>
