@@ -1,6 +1,4 @@
-## Mewalal Chaurasia Foundation
-
-### Books and Monographs
+## Books and Monographs
 
 * **India 2021: Population Health**
 * **India 2020: Population and Social Protection**
@@ -10,9 +8,9 @@
 * **India 2016: Population Transition**
 * **India 2015: Population and Human Development**
 
-### Working Papers
+## Working Papers
 
-#### 2021
+### 2021
 
 * A Non-parametric Approach to Small Area Estimation
 * Family Planning Performance in India 1992-2016
@@ -23,7 +21,7 @@
 * Poverty Hot-spots in Rural India
 * Spatial and Temporal Variations in Child Mortality in Uttar Pradesh
 
-#### 2020
+### 2020
 
 * Contraceptive Method Skew in India 1992-2016
 * Economic Growth and Population Transition in China and India 1990-2018

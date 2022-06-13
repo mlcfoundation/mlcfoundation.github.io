@@ -1,6 +1,4 @@
-## Indian Journal of Population and Development
-
-### Board of Editors
+## Board of Editors
 
 **Kishore K Das** <br>
 Professor <br>
@@ -90,7 +88,7 @@ Former Professor <br>
 Banaras Hindu University <br>
 Varanasi, UP, INDIA
 
-### Editor ###
+## Editor
 
 **Dr Alok Ranjan Chaurasia** <br>
 President, MLC Foundation <br>
@@ -98,7 +96,7 @@ Professor, 'Shyam' Institute <br>
 Bhopal, MP, INDIA <br>
 <aalok@mlcfoundation.org.in>
 
-### Managing Editor ###
+## Managing Editor
 
 **Brijesh P Singh** <br>
 Professor <br>
@@ -106,7 +104,7 @@ Banaras Hindu University <br>
 Varanasi, UP, INDIA <br>
 <brijesh@bhu.ac.in>
 
-### Associate Editors ###
+## Associate Editors
 
 **Binod Kumar Singh** <br>
 Senior Geographer <br>

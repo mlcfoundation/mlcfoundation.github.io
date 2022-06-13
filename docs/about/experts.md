@@ -1,44 +1,44 @@
-### Dr Alok Ranjan Chaurasia
+## Dr Alok Ranjan Chaurasia
 * Development
 * MSc, PhD (Statistics)
 * 40+ years of research experience
 
-### Prateek Ranjan
+## Prateek Ranjan
 * Irrigation  
 * MTech  
 * 30+ years of experience  
 
-### Dr Vandana Chaurasia 
+## Dr Vandana Chaurasia 
 * Health  
 * MBBS  
 * 20+ years of experience 
 
-### Dr Manju Sahay
+## Dr Manju Sahay
 * Sociology
 * MA, PhD
 * 15+ years of experience
 
-### Satish Agarwal
+## Satish Agarwal
 * IT 
 * MCA 
 * 20+ years of experience 
 
-### Akshay Ranjan
+## Akshay Ranjan
 * Engineering
 * BTech, IIM-K
 * 17+ years of experience 
 
-### Aalekh Ranjan
+## Aalekh Ranjan
 * Engineering
 * MTech
 * 6+ years of experience
 
-### Nishil Bharill
+## Nishil Bharill
 * Engineering
 * MTech
 * 16+ years of experience
 
-### Ruchi Sharma
+## Ruchi Sharma
 * Management
 * MBA
 * 6+ years of experience

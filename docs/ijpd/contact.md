@@ -1,6 +1,4 @@
-## Indian Journal of Population and Development
-
-### Editor
+## Editor
 
 **Dr Alok Ranjan Chaurasia** <br>
 MLC Foundation <br>
@@ -13,7 +11,7 @@ Email: <aalok@mlcfoundation.org.in> <br>
 Phone: +91-755-2927778 <br>
 Mobile: +91-9425017555
 
-### Publisher
+## Publisher
 
 **Mewalal Chaurasia (MLC) Foundation** <br>
 51, Lakecity Farms, Ganeshpuri <br>

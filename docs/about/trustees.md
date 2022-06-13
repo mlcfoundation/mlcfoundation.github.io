@@ -1,14 +1,13 @@
-### **Dr Alok Ranjan Chaurasia**
+## **Dr Alok Ranjan Chaurasia**
 
-### **Smt Sudha Ranjan**
+## **Smt Sudha Ranjan**
 
-### **Imteyaz Ali**
+## **Imteyaz Ali**
 
-### **Satish Agarwal**
+## **Satish Agarwal**
 
-### **Pradeep Chhaparwal**
+## **Pradeep Chhaparwal**
 
-### **Akshay Ranjan**
+## **Akshay Ranjan**
 
-
-### **Alekh Ranjan**
+## **Alekh Ranjan**
