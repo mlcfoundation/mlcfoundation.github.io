@@ -12,13 +12,7 @@ nav:
       - Publications: research/publications.md
       - NFHS: research/nfhs.md
       - FPPE: research/fppe.md
-  - IJPD:
-      - Journal: ijpd/journal.md
-      - 'Editorial Board': ijpd/editors.md
-      - 'Current Issue': ijpd/issues.md
-      - Archives: ijpd/archives.md
-      - Submissions: ijpd/submission.md
-      - Contact: ijpd/contact.md
+  - IJPD: ijpd.md
   - About:
       - Trustees: about/trustees.md
       - Experts: about/experts.md

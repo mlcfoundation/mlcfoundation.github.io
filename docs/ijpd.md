@@ -1,0 +1,287 @@
+# Indian Journal of Population and Development
+
+**INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** seeks to advance the understanding about the interaction between population factors and different dimensions of development in varied social, economic, cultural, and environmental settings. It provides a forum for discussion and debate on how population influences and is influenced by development processes and how population factors and development processes, in combination, affect and are affected by the environment that ensures the life on the Planet Earth.
+
+**INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** is an open access journal and published online two times in a year. Original research papers on different aspects of population, development and environment may be submitted for publication with the understanding that the research is original and has not been submitted to any other journal for publication. There is no charge for publication.
+
+Views and opinions expressed in the research papers published in the **INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** are those of the author(s) and do not reflect those of the publisher (Mewalal Chaurasia Foundation) and the Editor. The publisher and the Editor are also not responsible for any error or omission of the information on the part of the author(s) of the research papers published in the **INDIAN JOURNAL OF POPULATION AND DEVELOPMENT**.
+
+For more information, send an email to <ijpd@mlcfoundation.org.in>.
+
+## Details
+
+|||
+|-|-|
+| Title | **Indian Journal of Population and Development** |
+| Frequency | **Half-yearly** |
+| ISSN | **NA** |
+| Publisher | **Mewalal Chaurasia (MLC) Foundation** |
+| Chief Editor | **Dr Alok Ranjan Chaurasia** |
+| Copyright | **Mewalal Chaurasia (MLC) Foundation** |
+| Starting Year | **2021** |
+| Subject | **Multi-disciplinary** |
+| Language | **English** |
+| Publication Format | **Electronic (Online)** |
+| Phone Number | **0755-2927778** |
+| Email | **<ijpd@mlcfoundation.org.in>** |
+| Mobile Number | **9425017555** |
+| Website | **www.mlcfoundation.org.in** |
+| Address | **Mewalal Chaurasia (MLC) Foundation <br> 51, Lakecity Farms, Ganeshpuri <br> Kalkheda Road, Neelbad <br> Bhopal, MP 462044 <br> INDIA** |
+
+## Board of Editors
+
+**Kishore K Das** <br>
+Professor <br>
+Gauhati University <br>
+Guwahati, Assam, INDIA <br>
+<kishoredas@gauhati.ac.in>
+
+**Anil Deolalikar** <br>
+Professor <br> 
+University of California at Riverside <br>
+Riverside, CA, USA <br>
+<anil.d@ucr.edu>
+
+**Barry Edmonston** <br>
+Research Professor <br>
+Department of Sociology, University of Victoria <br>
+Victoria, CANADA <br>
+<be@uvic.ca>
+
+**Frank Gotmark** <br>
+Professor <br>
+University of Gothenburg <br>
+Gothenburg, SWEDEN <br>
+<frank.gotmark@bioenv.gu.se>
+
+**Purushottam M Kulkarni** <br>
+Former Professor <br>
+Jawaharlal Nehru University <br>
+New Delhi, INDIA<br>
+<pmkulkarni.jnu@gmail.com>
+
+**Dilip C Nath** <br>
+Vice Chancellor <br>
+Assam University <br>
+Silchar, Assam, INDIA<br>
+<dcnath@rediffmail.com>
+
+**Kannan Navaneetham** <br>
+Professor <br>
+University of Botswana <br>
+Gaborone, BOTSWANA <br>
+<kannan.navaneetham@mopipi.ub.bw>
+
+**Tapan Kumar Roy** <br>
+Professor <br>
+Rajshahi University <br>
+Rajshahi, BANGLADESH <br>
+<tkroy1971@ru.ac.bd>
+
+**Chander Shekhar** <br>
+Professor <br>
+International Institute for Population Sciences <br>
+Mumbai, INDIA<br>
+<budhabglobe@gmail.com>
+
+**Kaushalendra K Singh** <br>
+Professor <br>
+Banaras Hindu University <br>
+Varanasi, UP INDIA <br>
+<kksingh@bhu.ac.in>
+
+**Ravendra Singh** <br>
+Former Additional Director General <br> 
+Ministry of Statistics & Program Implementation, Government of India <br>
+New Delhi, INDIA<br>
+<singhravendra@hotmail.com>
+
+**Uttam Singh** <br>
+Professor <br>
+Sanjay Gandhi PG Institute of Medical Sciences <br>
+Lucknow, UP, INDIA <br> 
+<uttam@sgpgi.ac.in>
+ 
+**C M Suchindran** <br>
+Former Professor <br>
+University of North Carolina <br>
+Chapel Hill, USA<br>
+<cmsuchindran@gmail.com>
+
+**Ravi B P Verma** <br>
+Strategic Manager <br>
+Statistics Canada <br>
+Ottawa, CANADA 
+
+**R C Yadav** <br>
+Former Professor <br>
+Banaras Hindu University <br>
+Varanasi, UP, INDIA
+
+### Editor ###
+
+**Dr Alok Ranjan Chaurasia** <br>
+President, MLC Foundation <br>
+Professor, 'Shyam' Institute <br>
+Bhopal, MP, INDIA <br>
+<aalok@mlcfoundation.org.in>
+
+### Managing Editor ###
+
+**Brijesh P Singh** <br>
+Professor <br>
+Banaras Hindu University <br>
+Varanasi, UP, INDIA <br>
+<brijesh@bhu.ac.in>
+
+### Associate Editors ###
+
+**Binod Kumar Singh** <br>
+Senior Geographer <br>
+Office of the Registrar General of India <br>
+Patna, Bihar, INDIA<br>
+<bkscensus2011@gmail.com>
+
+**Abhay K Tiwari** <br>
+Professor <br>
+Banaras Hindu University <br>
+Varanasi, UP, INDIA<br>
+<abhay.tiwari@bhu.ac.in>
+
+**Suresh Jungari** <br>
+Assistant Professor <br>
+Indian Institute of Population Sciences <br>
+Mumbai, MH, INDIA<br>
+<sureshjungariiips@gmail.com>
+
+**Chandan Kumar** <br>
+Visiting Fellow <br>
+Shyam Institute <br>
+Bhopal, MP, INDIA<br>
+<chandan.co.in@gmail.com>
+
+## Current Issue
+
+### Volume 2(1) January 2022 (*Online first*)
+
+1. [ Child Vulnerability Across Life Cycle in District Chhindwara of Madhya Pradesh, India ](../assets/ijpd/2022-1/V_2_1_1.pdf)
+    <br> *Aalok R Chaurasia*
+
+2. [ The Right to Matter ](../assets/ijpd/2022-1/V_2_1_2.pdf)
+    <br> *Carter Dillard, Kirsten Stade, Timothy D Ray*
+
+## Archives
+
+### Volume 1(2) July 2021
+
+[Complete Issue](../assets/ijpd/2021-2/V_1_2.pdf)
+    <br>
+
+1. [ Asian Immigrant Advancement in Canada ](../assets/ijpd/2021-2/V_1_2_1.pdf)
+    <br> *Barry Edmonston*
+
+2. [ A Non-parametric Approach to Small Area Estimation with Application to Madhya Pradesh India ](../assets/ijpd/2021-2/V_1_2_2.pdf)
+    <br> *Aalok R Chaurasia*
+
+3. [ A Model Based Statistical Investigation of Female Age at Marriage ](../assets/ijpd/2021-2/V_1_2_3.pdf)
+    <br> *Brijesh P Singh, Utpal Dhar Das, Sandeep Singh*
+
+4. [ Influence of Household Food Insecurity on Nutritional Status of Scheduled Castes Children in Rural Areas of Barabanki, District Uttar Pradesh, India ](../assets/ijpd/2021-2/V_1_2_4.pdf)
+    <br> *Ramu Rawat, Sayed Unisa*
+
+5. [ Spatial Clustering of Nutritional Status of Women in Uttar Pradesh, India ](../assets/ijpd/2021-2/V_1_2_5.pdf)
+    <br> *Abhay K Tiwari, Shivam Mishra*
+
+6. [ Determinants of Modern Contraceptive Use Among Young Married Women in Five High Fertility States of India ](../assets/ijpd/2021-2/V_1_2_6.pdf)
+    <br> *Ashwani Kumar, Yogender Pal Gupta, Jayachandran AA*
+
+7. [ Effect of Age at Marriage and Duration of Cohabitation on Unwanted Fertility in North-East India ](../assets/ijpd/2021-2/V_1_2_7.pdf)
+    <br> *Kshetrimayum A Singh, Lourembam N Devi*
+
+8. [ An EM Algorithm Approach to Estimate Parameters of Fluctuating Nature of PPA ](../assets/ijpd/2021-2/V_1_2_8.pdf)
+    <br> *Pragya Singh, Kaushalendra K Singh, Brijesh P Singh*
+
+9. [ Caesarean Births in India: A Preliminary Analysis of Associated Factors ](../assets/ijpd/2021-2/V_1_2_9.pdf)
+    <br> *Charu Yadav, Parveen Nangia*
+
+10. [ Urban-rural Disparity in Family Planning Use in India, 1992-2021 ](../assets/ijpd/2021-2/V_1_2_10.pdf)
+    <br> *Aalok R Chaurasia, Chandan Kumar*
+
+### Volume 1(1) January 2021 
+
+[Complete Issue](../assets/ijpd/2021-1/IJPD_Vol_1_1.pdf)
+    <br>
+
+1. [Mortality Transitions in India](../assets/ijpd/2021-1/IJPD_Vol_1_1_1.pdf)
+    <br> *Alok R Chaurasia*
+
+2. [Demographic Factors Affecting Unfunded Pensions](../assets/ijpd/2021-1/IJPD_Vol_1_1_2.pdf)
+    <br> *Barry Edmonston*
+
+3. [Duration of Port-partum Amenorrhoea: A Model-based Approach](../assets/ijpd/2021-1/IJPD_Vol_1_1_3.pdf)
+    <br> *Ruchi Mishra, Kaushalendra K Singh, Brijesh P Singh*
+
+4. [Discussing Population Concepts: Overpopulation is a Necessary Word and an Inconvenient Truth](../assets/ijpd/2021-1/IJPD_Vol_1_1_4.pdf)
+    <br> *Frank Gotmark, Jane O'Sullivan, Philip Cafaro*
+
+5. [Poverty Hotspots in Rural India: Evidence from 2011 Population Census](../assets/ijpd/2021-1/IJPD_Vol_1_1_5.pdf)
+    <br> *Alok R Chaurasia, Chandan Kumar*
+
+6. [Risk Factors of Infertility in Bangladesh: A Poisson Regression Analysis](../assets/ijpd/2021-1/IJPD_Vol_1_1_6.pdf)
+    <br> *Tapan K Roy, Nityanand Haldar, Brijesh P Singh*
+
+7. [Spatial and Temporal Variations in Child Mortality in Uttar Pradesh, India](../assets/ijpd/2021-1/IJPD_Vol_1_1_7.pdf)
+    <br> *Alok R Chaurasia, Binod K Singh*
+
+8. [Consequences of the Benefits from Promotional Safety Net Programmes in Bangladesh and Factors for not Graduating from Poverty](../assets/ijpd/2021-1/IJPD_Vol_1_1_8.pdf)
+    <br> *Md Zakir Hossain, Fazlur Rahman, Roushni R Majumder*
+
+9. [Patterns of Migration in Uttar Pradesh: Evidence from Population Census](../assets/ijpd/2021-1/IJPD_Vol_1_1_9.pdf)
+    <br> *Dharmendra P Singh, Rajeshwari Biradar, Laxmi Kant Dwivedi*
+
+10. [Modelling Seasonality of Deaths in Guwahati City, Assam, India](../assets/ijpd/2021-1/IJPD_Vol_1_1_10.pdf)
+    <br> *Kishore K Das, Sahana Bhattacharjee*
+
+
+## Submission
+
+Research papers for publication in the **INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** may be submitted through email (<ijpd@mlcfoundation.org.in>) or via the following form.
+
+The first page of the paper MUST provide,
+
+1. Title of the article
+2. Name and contact details of author(s)
+3. Abstract of no more than 250 words with three, four key words
+
+Other important guidelines,
+
+1. The remaining part of the paper MUST not reveal identity of the author(s) in any form to facilitate double-blind review process.
+2. Formula(s) should be types in text using equation editor and should not be placed as image(s).
+3. Table(s) and figure(s) should be placed at the end of the paper in separate pages and should be appropriately referred in the text.
+
+## Contact
+
+### Editor
+
+**Dr Alok Ranjan Chaurasia** <br>
+MLC Foundation <br>
+51, Lakecity Farms, Ganeshpuri <br>
+Kalkheda Road, Neelbad <br>
+Bhopal, MP 462044 <br>
+INDIA <br>
+
+Email: <aalok@mlcfoundation.org.in> <br>
+Phone: +91-755-2927778 <br>
+Mobile: +91-9425017555
+
+### Publisher
+
+**Mewalal Chaurasia (MLC) Foundation** <br>
+51, Lakecity Farms, Ganeshpuri <br>
+Kalkheda Road, Neelbad <br>
+Bhopal, MP 462044 <br>
+INDIA <br>
+
+Email: <ijpd@mlcfoundation.org.in> <br>
+Phone: +91-755-2927778 <br>
+Mobile: +91-9425017555
