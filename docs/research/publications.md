@@ -1,5 +1,6 @@
 ## Books and Monographs
 
+* **India 2022: Family Planning Atlas**
 * **India 2021: Population Health**
 * **India 2020: Population and Social Protection**
 * **India 2019: Population and Sustainable Development**
