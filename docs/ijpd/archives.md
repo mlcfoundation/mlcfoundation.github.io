@@ -1,5 +1,5 @@
 
-## Volume 1(2) July 2021
+## IJPD Volume 1(2) July 2021
 
 [Complete Issue](../assets/ijpd/2021-2/V_1_2.pdf)
     <br>
