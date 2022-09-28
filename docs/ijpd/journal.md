@@ -1,4 +1,5 @@
-## About
+## INDIAN JOURNAL OF POPULATION AND DEVELOPMENT
+## ISSN: 2583-4827
 
 **INDIAN JOURNAL OF POPULATION AND DEVELOPMENT** seeks to advance the understanding about the interaction between population factors and different dimensions of development in varied social, economic, cultural, and environmental settings. It provides a forum for discussion and debate on how population influences and is influenced by development processes and how population factors and development processes, in combination, affect and are affected by the environment that ensures the life on the Planet Earth.
 

@@ -1,5 +1,5 @@
 
-## Volume 1(2) July 2021
+## IJPD Volume 1(2) July 2021
 
 [Complete Issue](../assets/ijpd/2021-2/V_1_2.pdf)
     <br>
@@ -34,7 +34,7 @@
 10. [ Urban-rural Disparity in Family Planning Use in India, 1992-2021 ](../assets/ijpd/2021-2/V_1_2_10.pdf)
     <br> *Aalok R Chaurasia, Chandan Kumar*
 
-## Volume 1(1) January 2021 
+## IJPD Volume 1(1) January 2021 
 
 [Complete Issue](../assets/ijpd/2021-1/IJPD_Vol_1_1.pdf)
     <br>
