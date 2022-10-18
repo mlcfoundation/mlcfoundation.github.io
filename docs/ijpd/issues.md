@@ -16,3 +16,6 @@
 
 5. [ Fertility and Family Planning in India: 1992-2021: Evidence from National Family Health Survey ](../assets/ijpd/2022-1/V_2_1_5.pdf)
     <br> *Aalok R Chaurasia, Brijesh P Singh*
+
+6. [ Violence against Women during Pregnancy in India: A Literature Review ](../assets/ijpd/2022-1/V_2_1_6.pdf)
+    <br> *Suresh Jungari, Ashish Pardhi, Priyanka Bomble*    
