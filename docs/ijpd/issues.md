@@ -18,4 +18,7 @@
     <br> *Aalok R Chaurasia, Brijesh P Singh*
 
 6. [ Violence against Women during Pregnancy in India: A Literature Review ](../assets/ijpd/2022-1/V_2_1_6.pdf)
-    <br> *Suresh Jungari, Ashish Pardhi, Priyanka Bomble*    
+    <br> *Suresh Jungari, Ashish Pardhi, Priyanka Bomble*  
+
+7. [ Boork Review: Decline and Prosper! Changing Global Birth Rates and the Advantages of Fewer Children by V Skirbekk ](../assets/ijpd/2022-1/V_2_1_7.pdf)
+    <br> *Frank Götmark*      
