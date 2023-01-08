@@ -11,8 +11,8 @@
 3. [ Human Development Surface: An Alternative Approach to Measure Human Progress ](../assets/ijpd/2022-2/V_2_2_3.pdf)
     <br> *Aalok R Chaurasia, Ravendra Singh*
     
-4. [ Poverty Hotspots in Rural India ](../assets/ijpd/2022-2/V_2_2_4.pdf)
-    <br> *Chandan Kumar*
+4. [ ](../assets/ijpd/2022-2/V_2_2_4.pdf)
+    <br> **
 
 5. [ Social Protection Perspective of Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) and Targeted Public Distribution System (PDS) in Madhya Pradesh ](../assets/ijpd/2022-2/V_2_2_5.pdf)
     <br> *Veena Bandyopadhyay*
