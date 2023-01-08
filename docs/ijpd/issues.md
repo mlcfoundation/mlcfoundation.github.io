@@ -1,24 +1,22 @@
-## IJPD Volume 2(1) January 2022 
+## IJPD Volume 2(2) July 2022 
 
 *Online first*
 
-1. [ Child Vulnerability Across Life Cycle in District Chhindwara of Madhya Pradesh, India ](../assets/ijpd/2022-1/V_2_1_1.pdf)
+1. [ Male-Female Disparity in Child Survival in Districts of India ](../assets/ijpd/2022-2/V_2_2_1.pdf)
     <br> *Aalok R Chaurasia*
 
-2. [ The Right to Matter ](../assets/ijpd/2022-1/V_2_1_2.pdf)
-    <br> *Carter Dillard, Kirsten Stade, Timothy D Ray*
+2. [ Environmental Impact of Population, Affluence and Technology in India: 60 Years Prespective ](../assets/ijpd/2022-2/V_2_2_2.pdf)
+    <br> *Manju Singh*
     
-3. [ Advances in Reproductive Health Indicators in India, 1993-2021 ](../assets/ijpd/2022-1/V_2_1_3.pdf)
-    <br> *John A Ross*
+3. [ Human Development Surface: An Alternative Approach to Measure Human Progress ](../assets/ijpd/2022-2/V_2_2_3.pdf)
+    <br> *Aalok R Chaurasia, Ravendra Singh*
     
-4. [ Healthy Aging and Wellbeing of Older Adults in a Northern City of Canada ](../assets/ijpd/2022-1/V_2_1_4.pdf)
-    <br> *Parveen Nangia, Kelly Gingrich*
+4. [ Poverty Hotspots in Rural India ](../assets/ijpd/2022-2/V_2_2_4.pdf)
+    <br> *Chandan Kumar*
 
-5. [ Fertility and Family Planning in India: 1992-2021: Evidence from National Family Health Survey ](../assets/ijpd/2022-1/V_2_1_5.pdf)
-    <br> *Aalok R Chaurasia, Brijesh P Singh*
+5. [ Social Protection Perspective of Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) and Targeted Public Distribution System (PDS) in Madhya Pradesh ](../assets/ijpd/2022-2/V_2_2_5.pdf)
+    <br> *Veena Bandyopadhyay*
 
-6. [ Violence against Women during Pregnancy in India: A Literature Review ](../assets/ijpd/2022-1/V_2_1_6.pdf)
-    <br> *Suresh Jungari, Ashish Pardhi, Priyanka Bomble*  
+6. [ Hypertension Treatment and Its Consequences in Rural North Karnataka ](../assets/ijpd/2022-2/V_2_2_6.pdf)
+    <br> *Sudhirgouda H Patil, Jang Bahadur Prasad, Rajeshwari A Biradar, Balasaheb Bansode*  
 
-7. [ Boork Review: Decline and Prosper! Changing Global Birth Rates and the Advantages of Fewer Children by V Skirbekk ](../assets/ijpd/2022-1/V_2_1_7.pdf)
-    <br> *Frank Götmark*      
