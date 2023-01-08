@@ -9,10 +9,10 @@
     <br> *Manju Singh*
     
 3. [ Human Development Surface: An Alternative Approach to Measure Human Progress ](../assets/ijpd/2022-2/V_2_2_3.pdf)
-    <br> *Aalok R Chaurasia, Ravendra Singh*
+    <br> *Ravendra Singh*
     
-4. [ ](../assets/ijpd/2022-2/V_2_2_4.pdf)
-    <br> **
+4. [ Spatial Decomposition of the Increase in the Life Expectancy at Birth in India, 1981-2015 ](../assets/ijpd/2022-2/V_2_2_4.pdf)
+    <br> *Chandan Kumar*
 
 5. [ Social Protection Perspective of Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) and Targeted Public Distribution System (PDS) in Madhya Pradesh ](../assets/ijpd/2022-2/V_2_2_5.pdf)
     <br> *Veena Bandyopadhyay*
