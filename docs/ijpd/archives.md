@@ -26,7 +26,7 @@
     <br> *Abhay K Tiwari, Anuj Singh, Brijesh P Singh*
 
 
- ## IJPD Volume 2(1) January 2022 
+## IJPD Volume 2(1) January 2022 
 
 [Complete Issue](../assets/ijpd/2022-1/V_2_1.pdf)
     <br>
