@@ -1,5 +1,6 @@
 ## Books and Monographs
 
+* **Child Mortality in Districts of India, 2019-2021**
 * **India 2022: Family Planning Atlas**
 * **India 2021: Population Health**
 * **India 2020: Population and Social Protection**
