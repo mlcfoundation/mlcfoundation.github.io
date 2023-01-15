@@ -12,6 +12,14 @@
 
 ## Working Papers
 
+### 2022
+
+* Fertility and Family Planning in India 1992-2021: Evidence from National Family Health Survey
+* Child Vulnerability Across Life Cycle in District Chhindwara of Madhya Pradesh, India
+* Male-Female Disparity in Child Survival in Districts of India
+* Human Development Surface: An Alternative Approach to Measure Human Progress
+* Spatial Decomposition of the Increase in Life Expectancy at Birth in India 1981-2015
+
 ### 2021
 
 * A Non-parametric Approach to Small Area Estimation
