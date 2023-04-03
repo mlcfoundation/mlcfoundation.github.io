@@ -7,3 +7,6 @@
 
 2. [ Population Prospects for Madhya Pradesh in the Twenty-first Century ](../assets/ijpd/2023-1/V_3_1_2.pdf)
     <br> *Purushottam M Kulkarni*
+
+3. [ Morbidity Differentials in India by Gender and Place of Residence: Evidence from National Sample Survey 2014 and 2017-2018 ](../assets/ijpd/2023-1/V_3_1_3.pdf)
+    <br> *Shewli Shabnam, Nandita Saikia*
