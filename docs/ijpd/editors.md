@@ -72,12 +72,6 @@ Sanjay Gandhi PG Institute of Medical Sciences <br>
 Lucknow, UP, INDIA <br> 
 <uttam@sgpgi.ac.in>
  
-**C M Suchindran** <br>
-Former Professor <br>
-University of North Carolina <br>
-Chapel Hill, USA<br>
-<cmsuchindran@gmail.com>
-
 **Ravi B P Verma** <br>
 Strategic Manager <br>
 Statistics Canada <br>
