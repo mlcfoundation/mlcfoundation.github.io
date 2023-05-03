@@ -15,9 +15,10 @@ nav:
   - IJPD:
       - Indian Journal of Population and Development: ijpd/journal.md
       - 'Editorial Board': ijpd/editors.md
+      - 'Editorial Policy': ijpd/policy.md
+      - Submissions: ijpd/submission.md
       - 'Current Issue': ijpd/issues.md
       - Archives: ijpd/archives.md
-      - Submissions: ijpd/submission.md
       - Contact: ijpd/contact.md
   - About:
       - Trustees: about/trustees.md
