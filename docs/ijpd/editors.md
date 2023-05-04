@@ -85,17 +85,20 @@ Varanasi, UP, INDIA
 ## Editor
 
 **Dr Alok Ranjan Chaurasia** <br>
-President, MLC Foundation <br>
-Professor, 'Shyam' Institute <br>
-Bhopal, MP, INDIA <br>
+President, Mewalal Chaurasia Foundation <br>
+51, Lake City Farms (Ganesh Puri) <br>
+Kalkheda Road, Neelbad <br>
+Bhopal, Madhya Pradesh, INDIA 462044 <br>
 <aalok@mlcfoundation.org.in>
 
 ## Managing Editor
 
 **Brijesh P Singh** <br>
 Professor <br>
+Department of Statistics <br>
+Faculty of Science <br>
 Banaras Hindu University <br>
-Varanasi, UP, INDIA <br>
+Varanasi, Uttar Pradesh, INDIA <br>
 <brijesh@bhu.ac.in>
 
 ## Associate Editors
