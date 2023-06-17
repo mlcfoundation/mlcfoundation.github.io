@@ -15,7 +15,10 @@
     <br> *Veena Bandyopadhyay*
 
 5. [ Family Planning Performance in India ](../assets/ijpd/2023-1/V_3_1_5.pdf)
-    <br> *Manju Singh, Brijesh P Singh*    
+    <br> *Manju Singh, Brijesh P Singh*
 
-6. [ Obituary: Chirayath M Suchindran ](../assets/ijpd/2023-1/V_3_1_O.pdf)
+6. [ Inter-district Variation in the Prevalence of Girld Child Marriage in Madhya Pradesh, India ](../assets/ijpd/2023-1/V_3_1_6.pdf)
+    <br> *Neelesh Dubey*        
+
+7. [ Obituary: Chirayath M Suchindran ](../assets/ijpd/2023-1/V_3_1_O.pdf)
     <br> *Kaushalendra K Singh*
