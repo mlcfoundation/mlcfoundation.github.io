@@ -1,6 +1,7 @@
 ## IJPD Volume 3(1) January 2023 
 
-*Online first*
+[Complete Issue](../assets/ijpd/2023-1/V_3_1.pdf)
+    <br>
 
 1. [ Seventy Years of Mortality Transition in India, 1950-2021 ](../assets/ijpd/2023-1/V_3_1_1.pdf)
     <br> *Aalok R Chaurasia*
@@ -20,5 +21,8 @@
 6. [ Inter-district Variation in the Prevalence of Girld Child Marriage in Madhya Pradesh, India ](../assets/ijpd/2023-1/V_3_1_6.pdf)
     <br> *Neelesh Dubey*        
 
-7. [ Obituary: Chirayath M Suchindran ](../assets/ijpd/2023-1/V_3_1_O.pdf)
+7. [ Population Effects on Biodiversity and Climate Change: Evidence from Recent Scientific Literature, 2010-2022 ](../assets/ijpd/2023-1/V_3_1_7.pdf)
+    <br> *Philip Cafaro, Pernilla Hansson, Frank Götmark*
+
+8. [ Obituary: Chirayath M Suchindran ](../assets/ijpd/2023-1/V_3_1_O.pdf)
     <br> *Kaushalendra K Singh*
