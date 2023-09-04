@@ -1,46 +1,48 @@
-## XXI Bhopal Seminar 2023
+## XXII Bhopal Seminar 2024
 
-**Contemporary Issues in Demography and Development in India** <br>
+**Contemporary Issues and Future Challenges in Indian Demography** <br>
 Bhopal, Madhya Pradesh, India <br>
-22-24 February 2023 <br>
+17-19 January 2024 <br>
 
-MLC Foundation and ‘Shyam’ Institute is organising the XXI Bhopal Seminar 2023: Contemporary Issues in Demography and Development in India from 22 through 24 February 2023. Presentations, discussions and deliberations at the XXI Bhopal Seminar 2023 will be organised around the following sub-themes:
+MLC Foundation and ‘Shyam’ Institute is organising the XXII Bhopal Seminar 2024: Contemporary Issues and Future Challenges in Indian Demography from 17 through 19 January 2024. Presentations, discussions and deliberations at the XXII Bhopal Seminar 2024 will be organised around the following sub-themes:
 
-* Future population growth
+* Demographic dynamics at the local level
 
-* Age structure transition
+* Civil registration and vital statistics
 
-* Fertility and family planning
+* Demographic inequality
 
-* Mortality and health
+* Health equity
 
-* Migration and urbanisation
+* Spatial demography
 
-* Demography of poverty
+* Population ageing
 
-* Demography of productivity
+* Population momentum
 
-* Social and cultural dimensions of demography and development
+* Demographic dimensions of development
 
 * 
 ### Participation
 
-Original research papers are invited for presentation at the Bhopal Seminar 2023 on any of the sub-themes and on any other issue related to demography and development in India. Research papers to be presented at the Bhopal Seminar 2023 should be based on the empirical evidence derived from household surveys or registration system or service statistics and not on anecdotal or analogical experiences.
+Original research papers are invited for presentation at the XXII Bhopal Seminar 2024 on any of the sub-themes and on any other issue related to demography and development in India. Research papers to be presented at the XXII Bhopal Seminar 2024 should be based on the empirical evidence derived from household surveys or registration system or service statistics and not on anecdotal or analogical experiences.
 
 ### Important Dates
 
 1. Registration and submission of abstract
-    <br> *15 January 2023*
+    <br> *1 December 2023*
 
 2. Confirmation of registration and acceptance of abstract
-    <br> *20 January 2023*
+    <br> *5 December 2023*
 
 3. Submission of full paper
-    <br> *10 February 2023*
+    <br> *5 January 2024*
 
 4. Acceptance of full paper
-    <br> *12 February 2023*
+    <br> *10 January 2024*
 
-5. Inauguration of the XXI Bhopal Seminar 2023
-    <br> *22 February 2023*
+5. Inauguration of the XXII Bhopal Seminar 2024
+    <br> *17 January 2024*
 
+
+*Broucher*(www.shyaminstitute.in/sem24.pdf)
