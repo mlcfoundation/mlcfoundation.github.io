@@ -7,6 +7,10 @@
 3. [ Citizenship Acquisition of Immigrants in Canada: Trends and Determinants](../assets/ijpd/2023-2/V_3_2_3.pdf)
     <br> *Barry Edmonston*
 4. [ Review of Civil Registration System in Madhya Pradesh, India](../assets/ijpd/2023-2/V_3_2_4.pdf)
-    <br> *Binod K Singh*
+    <br> *Ravendra Singh*
 5. [ Review of the Quality of Population Estimates and Projections at Sub-national Level in India Using Principles of Applied Demography](../assets/ijpd/2023-2/V_3_2_5.pdf)
     <br> *Ravi BP Verma*
+6. [ Migration and Employment in Mumbai, India](../assets/ijpd/2023-2/V_3_2_6.pdf)
+    <br> *Dharmendra P Singh*
+7. [ Multi-dimensional Composite Health Indices in India: A Review Literature](../assets/ijpd/2023-2/V_3_2_5.pdf)
+    <br> *Meena Sehgal*, *Santosh Jatrana*, *Louise Johnson*, *Ritu Mathur*
