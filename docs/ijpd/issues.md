@@ -12,5 +12,5 @@
     <br> *Ravi BP Verma*
 6. [ Migration and Employment in Mumbai, India](../assets/ijpd/2023-2/V_3_2_6.pdf)
     <br> *Dharmendra P Singh*
-7. [ Multi-dimensional Composite Health Indices in India: A Review Literature](../assets/ijpd/2023-2/V_3_2_5.pdf)
+7. [ Multi-dimensional Composite Health Indices in India: A Review Literature](../assets/ijpd/2023-2/V_3_2_7.pdf)
     <br> *Meena Sehgal*, *Santosh Jatrana*, *Louise Johnson*, *Ritu Mathur*
