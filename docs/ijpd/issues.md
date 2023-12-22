@@ -1,5 +1,7 @@
 ## IJPD Volume 3(2) July 2023 
 
+[Complete Issue](../assets/ijpd/2023-2/V_3_2.pdf)
+    <br>
 1. [ Male-Female Disparity in Child Survival in Districts of India](../assets/ijpd/2023-2/V_3_2_1.pdf)
     <br> *Aalok R Chaurasia*
 2. [ Reproductive Health Advances in Bangladesh: National Policies, Selected Outcomes, and Improved Equity](../assets/ijpd/2023-2/V_3_2_2.pdf)
