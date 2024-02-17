@@ -46,4 +46,4 @@ Original research papers are invited for presentation at the XXII Bhopal Seminar
 
 
 *Broucher*
-www.shyaminstitute.in/sem24.pdf
+[Bhopal Seminar '24](https://www.shyaminstitute.in/sem24.pdf)
