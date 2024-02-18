@@ -1,8 +1,8 @@
 ## Books and Monographs
 
-* **Modelling and Forecasting Population Growth in Districts of India**
-* **Child Mortality in Districts of India, 2019-2021**
-* **India 2022: Family Planning Atlas**
+* [ **Modelling and Forecasting Population Growth in Districts of India**](../assets/Dist_pop_forecast.pdf)
+* [ **Child Mortality in Districts of India, 2019-2021**](../assets/India_CM_2022.pdf)
+* [ **India 2022: Family Planning Atlas**](../assets/FP_Atlas.pdf)
 * **India 2021: Population Health**
 * **India 2020: Population and Social Protection**
 * **India 2019: Population and Sustainable Development**
