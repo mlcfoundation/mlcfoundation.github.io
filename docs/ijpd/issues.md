@@ -18,3 +18,5 @@
 5. [ Progress in Reproductive Health in India, 1992-2021: Evidence from National Family Health Survey](../assets/ijpd/2024-1/V_4_1_5.pdf)
     <br> *Brijesh P Singh*, *Ayushi Chourasiya*, *Hricha Rai*
     
+6. [ Trends and Predictors of the Use of Modern Contraceptive Methods by Sexually Active, Non-pregnant Women in India, 2005-2021](../assets/ijpd/2024-1/V_4_1_6.pdf)
+    <br> *Sanjiv Singh*, *Kaushalendra K Singh*, *Pragya Singh*
