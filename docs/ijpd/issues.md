@@ -20,3 +20,6 @@
     
 6. [ Trends and Predictors of the Use of Modern Contraceptive Methods by Sexually Active, Non-pregnant Women in India, 2005-2021](../assets/ijpd/2024-1/V_4_1_6.pdf)
     <br> *Sanjiv Singh*, *Kaushalendra K Singh*, *Pragya Singh*
+
+7. [ Chronic Conditions During Pregnanacy: Guidance on Complications and Healthcare Options](../assets/ijpd/2024-1/V_4_1_7.pdf)
+    <br> *Charu Yadav*, *Parveen Nangia*
