@@ -1,25 +1,22 @@
-## IJPD Volume 4(1) January 2024 
+## IJPD Volume 4(2) July 2024 
 
-[Complete Issue](../assets/ijpd/2024-1/V_4_1.pdf)
+[Complete Issue](../assets/ijpd/2024-2/V_4_2.pdf)
     <br>
 
-1. [ Population at Stabilisation in Districts of India](../assets/ijpd/2024-1/V_4_1_1.pdf)
-    <br> *Aalok R Chaurasia*, *David Burg*
+1. [ Inequalities in household wealth in India: Evidence from National Family Health Survey, 2019-2021](../assets/ijpd/2024-2/V_4_2_1.pdf)
+    <br> *Aalok R Chaurasia*
 
-2. [ Anaemia Prevalence in Children and Women Across India: Levels and Determinants, 2019-2021](../assets/ijpd/2024-1/V_4_1_2.pdf)
-    <br> *Subhash C Gulati*, *Rajesh Raushan*, *William Joe*
+2. [ Child well-being in Madhya Pradesh, India](../assets/ijpd/2024-2/V_4_2_2.pdf)
+    <br> *Veena Bandyopadhyay*
 
-3. [ Untouchability in India, Subaltern Questions](../assets/ijpd/2024-1/V_4_1_3.pdf)
-    <br> *Ramu Rawat*, *Noly N Tirkey*, *Kanchan T Ekka*
+3. [ Prevalence and socioeconomic determinants of hypertension among women in India: a cross-sectional study from the nationally representative data](../assets/ijpd/2024-2/V_4_2_3.pdf)
+    <br> *Mriganka Dolui*, *Sanjit Sarkar*, *Sameer K Jena*
 
-4. [ Informed Choice and Use of Selected Contraceptive Methods in Scheduled Tribes Women in India](../assets/ijpd/2024-1/V_4_1_4.pdf)
-    <br> *Ravita Yadav*, *Bal Govind Chauhan*, *Praveen K Chokhandre*, *Nutan Kumari*
+4. [ Age at diagnosis and diabetes dree life expectancy by gender in Kerala: evidence from LASI](../assets/ijpd/2024-2/V_4_2_4.pdf)
+    <br> *Anjana A*, *Bindu P*, *Asha T Chacko*
 
-5. [ Progress in Reproductive Health in India, 1992-2021: Evidence from National Family Health Survey](../assets/ijpd/2024-1/V_4_1_5.pdf)
-    <br> *Brijesh P Singh*, *Ayushi Chourasiya*, *Hricha Rai*
+5. [ Education of women and reproductive and child health in Madhya Pradesh: district level analysis](../assets/ijpd/2024-2/V_4_2_5.pdf)
+    <br> *Ravendra Singh*
     
-6. [ Trends and Predictors of the Use of Modern Contraceptive Methods by Sexually Active, Non-pregnant Women in India, 2005-2021](../assets/ijpd/2024-1/V_4_1_6.pdf)
-    <br> *Sanjiv Singh*, *Kaushalendra K Singh*, *Pragya Singh*
-
-7. [ Chronic Conditions During Pregnanacy: Guidance on Complications and Healthcare Options](../assets/ijpd/2024-1/V_4_1_7.pdf)
-    <br> *Charu Yadav*, *Parveen Nangia*
+6. [ Profiles of Fertility in Districts of India, 2019-2021](../assets/ijpd/2024-2/V_4_2_6.pdf)
+    <br> *Aalok R Chaurasia*, *Manju Singh*
