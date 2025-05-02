@@ -20,3 +20,6 @@
     
 6. [ Profiles of Fertility in Districts of India, 2019-2021](../assets/ijpd/2024-2/V_4_2_6.pdf)
     <br> *Aalok R Chaurasia*, *Manju Singh*
+
+7. [ India's Progress in SDG3 - Good Health and Well-being: Some Insights](../assets/ijpd/2024-2/V_4_2_7.pdf)
+    <br> *Subhash C Gulati*, *Aalok R Chaurasia*
