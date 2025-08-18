@@ -15,11 +15,4 @@
 4. [ Intimate partner violence during pregnancy and adverse birth outcomes in India: findings from the National Family Health Survey](../assets/ijpd/2025-1/V_5_1_4.pdf)
     <br> *Madhuri*, *Sanjit Sarkar*, *Archana Kujur*, *Moslem Hossain*, *Mriganka Dolui*
 
-5. [ ](../assets/ijpd/2025-1/V_5_1_5.pdf)
-    <br> **
-    
-6. [ ](../assets/ijpd/2025-1/V_5_1_6.pdf)
-    <br> **, **
 
-7. [ ](../assets/ijpd/2025-1/V_5_1_7.pdf)
-    <br> **, **
