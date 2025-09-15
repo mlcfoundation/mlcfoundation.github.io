@@ -15,4 +15,14 @@
 4. [ Intimate partner violence during pregnancy and adverse birth outcomes in India: findings from the National Family Health Survey](../assets/ijpd/2025-1/V_5_1_4.pdf)
     <br> *Madhuri*, *Sanjit Sarkar*, *Archana Kujur*, *Moslem Hossain*, *Mriganka Dolui*
 
+5. [ Gender disparity in literacy in north Indian states](../assets/ijpd/2025-1/V_5_1_5.pdf)
+    <br> *Adriza Dutta*, *Joginder Singh Chauhan*, *Rana Roy*, *Sarda Prasad*
 
+6. [ Impact of the sex of the first child on second birth interval in Uttar Pradesh: a non-parametric and semi-parametric approach](../assets/ijpd/2025-1/V_5_1_6.pdf)
+    <br> *Abhay Kumar Tiwari*, *Pappu Kumar Singh*
+
+7. [ Navigating the trajectories of female migration in India](../assets/ijpd/2025-1/V_5_1_7.pdf)
+    <br> *Grace Bahalen Mundu*, *Moatula Ao*, *S Limakumba Walling*
+
+[ Book Review: Statistical Learning with R by Dibyajyoti Bora and Sahana Bhattacharjee](../assets/ijpd/2025-1/V_5_1_8.pdf)
+    <br> *Brijesh P Singh*
