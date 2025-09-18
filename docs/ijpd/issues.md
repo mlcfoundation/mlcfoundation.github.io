@@ -7,7 +7,7 @@
     <br> *Aalok R Chaurasia*, *Chandan Kumar*
 
 2. [ Religion affects birth rate: an overvirview of religiosity, with focus on Africa](../assets/ijpd/2025-1/V_5_1_2.pdf)
-    <br> *Frank Götmark*, *Nicola Turner
+    <br> *Frank Götmark*, *Nicola Turner*
 
 3. [ A probability model for the analysis of truncated birth history](../assets/ijpd/2025-1/V_5_1_3.pdf)
     <br> *Brijesh P Singh*, *Kaushalendra K Singh*
