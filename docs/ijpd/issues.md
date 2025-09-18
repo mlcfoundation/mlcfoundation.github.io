@@ -24,5 +24,5 @@
 7. [ Navigating the trajectories of female migration in India](../assets/ijpd/2025-1/V_5_1_7.pdf)
     <br> *Grace Bahalen Mundu*, *Moatula Ao*, *S Limakumba Walling*
 
-[ Book Review: Statistical Learning with R by Dibyajyoti Bora and Sahana Bhattacharjee](../assets/ijpd/2025-1/V_5_1_8.pdf)
+    [ Book Review: Statistical Learning with R by Dibyajyoti Bora and Sahana Bhattacharjee](../assets/ijpd/2025-1/V_5_1_8.pdf)
     <br> *Brijesh P Singh*
