@@ -12,4 +12,5 @@
 3. [ Growth of Hindu and Sikh Populations in Canada 2001–2021: Demographic Drivers, Diaspora Dynamics and Population–Development Implications](../assets/ijpd/2025-2/V_5_2_3.pdf)
     <br> *Ravi BP Verma*
 
-
+4. [ Domestic Violence Against Women in India](../assets/ijpd/2025-2/V_5_2_4.pdf)
+    <br> *Subhash C Gulati*, *Rajesh Raushan*
