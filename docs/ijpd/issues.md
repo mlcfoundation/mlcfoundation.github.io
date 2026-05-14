@@ -16,4 +16,4 @@
     <br> *Subhash C Gulati*, *Rajesh Raushan*
 
 5. [ Demographic Transition, Migration and Sustainability in Assam, India: Population Dynamics, Inequalities and Development Outcomes](../assets/ijpd/2025-2/V_5_2_5.pdf)
-    <br>
+    <br>*Saurav Dey*
