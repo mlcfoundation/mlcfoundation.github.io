@@ -1,3 +1,10 @@
+---
+title: Publications
+description: Books, monographs, and working papers published by Mewalal Chaurasia Foundation on population growth, child mortality, family planning, human development, and related topics in India.
+---
+
+# Publications
+
 ## Books and Monographs
 
 * [ **Modelling and Forecasting Population Growth in Districts of India**](../assets/Dist_pop_forecast.pdf)
