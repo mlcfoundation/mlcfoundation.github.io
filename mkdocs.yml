@@ -25,20 +25,22 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: amber
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: amber
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
-  icon:
-    repo: fontawesome/brands/github
+  font:
+    text: Inter
+  logo: img/favicon.png
+  favicon: img/favicon.ico
 
 plugins:
   - search
@@ -72,6 +74,7 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:contact@mlcfoundation.org.in
       name: Email MLC Foundation
+  generator: false
 
 nav:
   - Home: index.md
