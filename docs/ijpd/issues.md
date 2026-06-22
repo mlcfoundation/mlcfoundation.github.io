@@ -17,3 +17,9 @@
 
 5. [ Demographic Transition, Migration and Sustainability in Assam, India: Population Dynamics, Inequalities and Development Outcomes](../assets/ijpd/2025-2/V_5_2_5.pdf)
     <br>*Saurav Dey*
+
+6. [ Spatio-Temporal Analysis of Rural-Urban Disparity in Literacy Rate in West Bengal, India](../assets/ijpd/2025-2/V_5_2_6.pdf)
+    <br>*Sunita Singh*, *Rana Roy*, *Bijay Chettri*
+
+7. [ Decomposition of Change in Female-Male and Urban-Rural Gap in Life Expectancy at Birth in India](../assets/ijpd/2025-2/V_5_2_7.pdf)
+    <br>*Brijesh P Singh*, Ayushi Chourasiya*
