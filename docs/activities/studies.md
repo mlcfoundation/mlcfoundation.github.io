@@ -1,3 +1,10 @@
+---
+title: Studies
+description: Ongoing and completed research studies at Mewalal Chaurasia Foundation on population growth, family planning, child mortality, small-area estimation, and other topics in population and development.
+---
+
+# Studies
+
 ## Ongoing
 
 - Intrinsic and momentum components of world population growth, 1950-2020.

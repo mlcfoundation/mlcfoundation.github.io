@@ -1,3 +1,10 @@
+---
+title: Contact
+description: Contact Mewalal Chaurasia Foundation in Bhopal, Madhya Pradesh, India — registered address, email, and phone.
+---
+
+# Contact
+
 ## Registered Address
 
 **Mewalal Chaurasia (MLC) Foundation** <br>

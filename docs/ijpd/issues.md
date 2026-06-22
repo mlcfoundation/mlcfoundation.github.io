@@ -1,3 +1,10 @@
+---
+title: Current Issue
+description: The current issue of the Indian Journal of Population and Development (IJPD), featuring peer-reviewed open-access research papers on population, health, and development.
+---
+
+# Current Issue
+
 ## IJPD Volume 5(2) July 2025 
 
 [Complete Issue](../assets/ijpd/2025-2/V_5_2.pdf)

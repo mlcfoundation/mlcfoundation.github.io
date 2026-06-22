@@ -1,15 +1,16 @@
 [tool.poetry]
 name = "mlcfoundation-github-io"
-version = "0.1.0"
-description = ""
+version = "0.2.0"
+description = "MLC Foundation website (MkDocs + Material)"
 authors = ["Akshay Ranjan <akshay.ranjan@gmail.com>"]
 readme = "README.md"
-packages = [{include = "mlcfoundation"}]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
 mkdocs = "^1.6.0"
-mkdocs-windmill = "^1.0.5"
+mkdocs-material = "^9.5.0"
+mkdocs-minify-plugin = "^0.8.0"
 
 
 [build-system]
