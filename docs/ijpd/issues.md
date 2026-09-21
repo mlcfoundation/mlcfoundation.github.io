@@ -5,28 +5,17 @@ description: The current issue of the Indian Journal of Population and Developme
 
 # Current Issue
 
-## IJPD Volume 5(2) July 2025 
+## IJPD Volume 6(1) January 2026 
 
-[Complete Issue](../assets/ijpd/2025-2/V_5_2.pdf)
+[Complete Issue](../assets/ijpd/2026-1/V_6_1.pdf)
     <br>
 
-1. [ Benchmarking Productive Engagement of Females in Villages of India](../assets/ijpd/2025-2/V_5_2_1.pdf)
+1. [ Progress in Child Nutrition in India, 2015-2024: Evidence from National Family Health Survey](../assets/ijpd/2026-1/V_6_1_1.pdf)
     <br> *Aalok R Chaurasia*
 
-2. [ Perceived Threat of Climate Change and Climate Anxiety](../assets/ijpd/2025-2/V_5_2_2.pdf)
-    <br> *Breanna Boissonneault*, *Parveen Nangia*
+2. [ Infrastructure Gaps, Functional Disparities, and Policy Implementation in Water and Sanitation: Assessing Progress towards SDG-6 in Manipur](../assets/ijpd/2026-1/V_6_1_2.pdf)
+    <br> *Lanchalung Gangmei*, *D Ashune*
 
-3. [ Growth of Hindu and Sikh Populations in Canada 2001–2021: Demographic Drivers, Diaspora Dynamics and Population–Development Implications](../assets/ijpd/2025-2/V_5_2_3.pdf)
-    <br> *Ravi BP Verma*
+3. [ Who Pays for Tests that should be Free? A Cross-sectional Household Survey in Upper Assam](../assets/ijpd/2026-1/V_6_1_3.pdf)
+    <br> *Monmoyuri Dutta*, *Seema Sharma*
 
-4. [ Domestic Violence Against Women in India](../assets/ijpd/2025-2/V_5_2_4.pdf)
-    <br> *Subhash C Gulati*, *Rajesh Raushan*
-
-5. [ Demographic Transition, Migration and Sustainability in Assam, India: Population Dynamics, Inequalities and Development Outcomes](../assets/ijpd/2025-2/V_5_2_5.pdf)
-    <br>*Saurav Dey*
-
-6. [ Spatio-Temporal Analysis of Rural-Urban Disparity in Literacy Rate in West Bengal, India](../assets/ijpd/2025-2/V_5_2_6.pdf)
-    <br>*Sunita Singh*, *Rana Roy*, *Bijay Chettri*
-
-7. [ Decomposition of Change in Female-Male and Urban-Rural Gap in Life Expectancy at Birth in India](../assets/ijpd/2025-2/V_5_2_7.pdf)
-    <br>*Brijesh P Singh*, Ayushi Chourasiya*
