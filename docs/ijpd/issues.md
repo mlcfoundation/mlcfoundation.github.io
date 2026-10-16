@@ -19,3 +19,5 @@ description: The current issue of the Indian Journal of Population and Developme
 3. [ Who Pays for Tests that should be Free? A Cross-sectional Household Survey in Upper Assam](../assets/ijpd/2026-1/V_6_1_3.pdf)
     <br> *Monmoyuri Dutta*, *Seema Sharma*
 
+4. [ Effect of Four or More Antenatal Care Visits on Basic Childhood Immunisation in India: A Propensity Score Matching Analysis](../assets/ijpd/2026-1/V_6_1_4.pdf)
+    <br> *Shubham Pathak*, *Kaushalendra K Singh*
