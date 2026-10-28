@@ -21,3 +21,9 @@ description: The current issue of the Indian Journal of Population and Developme
 
 4. [ Effect of Four or More Antenatal Care Visits on Basic Childhood Immunisation in India: A Propensity Score Matching Analysis](../assets/ijpd/2026-1/V_6_1_4.pdf)
     <br> *Shubham Pathak*, *Kaushalendra K Singh*
+
+5. [ Age-Specific Migration Schedules for India. Application of a Modified Rogers–Castro Model](../assets/ijpd/2026-1/V_6_1_5.pdf)
+    <br> *Abhishek Ranjan Gaur*, *Anupama Singh*
+
+6. [ Social Protection in Districts of India: Evidence from NFHS-6](../assets/ijpd/2026-1/V_6_1_6.pdf)
+    <br> *Neelesh Dubey*
