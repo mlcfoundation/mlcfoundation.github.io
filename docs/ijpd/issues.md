@@ -27,3 +27,6 @@ description: The current issue of the Indian Journal of Population and Developme
 
 6. [ Social Protection in Districts of India: Evidence from NFHS-6](../assets/ijpd/2026-1/V_6_1_6.pdf)
     <br> *Neelesh Dubey*
+
+7. [ Prevalence and Determinants of Non-Communicable Diseases in Urban Slums of Bhubaneswar, Odisha, India](../assets/ijpd/2026-1/V_6_1_7.pdf)
+    <br> *Prafulla Kumar Swain*, *Subhadra Priyadarshini*, *Chaitali Das*
